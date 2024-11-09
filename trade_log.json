@@ -1,0 +1,132 @@
+[
+    {
+        "order_type": "buy",
+        "entry_price": 162.83,
+        "stop_loss": 161.172,
+        "take_profit": 166.0866,
+        "entry_timestamp": "2024-11-03T01:43:36.130987",
+        "exit_timestamp": "2024-11-03T08:53:57.353449",
+        "outcome": "LOSS",
+        "duration": 430
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 160.96,
+        "stop_loss": 158.796,
+        "take_profit": 164.1792,
+        "entry_timestamp": "2024-11-03T09:15:26.954366",
+        "exit_timestamp": "2024-11-03T10:04:29.470180",
+        "outcome": "LOSS",
+        "duration": 49
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 158.63,
+        "stop_loss": 156.33089999999999,
+        "take_profit": 161.80259999999998,
+        "entry_timestamp": "2024-11-03T10:37:20.124505",
+        "exit_timestamp": "2024-11-03T15:35:24.364507",
+        "outcome": "WIN",
+        "duration": 298
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 162.13,
+        "stop_loss": 160.14239999999998,
+        "take_profit": 165.3726,
+        "entry_timestamp": "2024-11-03T18:02:28.673051",
+        "exit_timestamp": "2024-11-04T11:56:49.221196",
+        "outcome": "LOSS",
+        "duration": 1074
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 160.38,
+        "stop_loss": 158.30100000000002,
+        "take_profit": 163.5876,
+        "entry_timestamp": "2024-11-04T12:57:28.237183",
+        "exit_timestamp": "2024-11-04T16:15:56.696900",
+        "outcome": "LOSS",
+        "duration": 198
+    },
+    {
+        "order_type": "sell",
+        "entry_price": 156.68,
+        "stop_loss": 159.6911,
+        "take_profit": 153.5464,
+        "entry_timestamp": "2024-11-04T16:33:12.523596",
+        "exit_timestamp": "2024-11-04T23:09:44.417150",
+        "outcome": "LOSS",
+        "duration": 396
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 160.02,
+        "stop_loss": 158.3703,
+        "take_profit": 163.2204,
+        "entry_timestamp": "2024-11-05T00:01:00.899976",
+        "exit_timestamp": "2024-11-05T13:12:39.025114",
+        "outcome": "LOSS",
+        "duration": 791
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 166.31,
+        "stop_loss": 164.5875,
+        "take_profit": 169.6362,
+        "entry_timestamp": "2024-11-05T15:39:23.514027",
+        "exit_timestamp": "2024-11-05T22:11:50.324018",
+        "outcome": "LOSS",
+        "duration": 392
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 182.55,
+        "stop_loss": 177.88320000000002,
+        "take_profit": 186.20100000000002,
+        "entry_timestamp": "2024-11-05T22:43:20.064051",
+        "exit_timestamp": "2024-11-05T23:26:26.642105",
+        "outcome": "LOSS",
+        "duration": 43
+    },
+    {
+        "order_type": "sell",
+        "entry_price": 186.1,
+        "stop_loss": 188.65789999999998,
+        "take_profit": 182.378,
+        "entry_timestamp": "2024-11-05T23:42:41.273052",
+        "exit_timestamp": "2024-11-06T01:04:46.888372",
+        "outcome": "LOSS",
+        "duration": 82
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 186.24,
+        "stop_loss": 184.1301,
+        "take_profit": 189.96480000000003,
+        "entry_timestamp": "2024-11-06T01:29:45.454472",
+        "exit_timestamp": "2024-11-06T02:41:16.929846",
+        "outcome": "LOSS",
+        "duration": 71
+    },
+    {
+        "order_type": "sell",
+        "entry_price": 183.82,
+        "stop_loss": 186.6379,
+        "take_profit": 180.1436,
+        "entry_timestamp": "2024-11-06T03:00:03.578553",
+        "exit_timestamp": "2024-11-06T03:38:05.618159",
+        "outcome": "LOSS",
+        "duration": 38
+    },
+    {
+        "order_type": "buy",
+        "entry_price": 182.97,
+        "stop_loss": 180.675,
+        "take_profit": 186.6294,
+        "entry_timestamp": "2024-11-06T03:57:33.359179",
+        "exit_timestamp": "2024-11-06T09:56:55.858618",
+        "outcome": "LOSS",
+        "duration": 359
+    }
+]
